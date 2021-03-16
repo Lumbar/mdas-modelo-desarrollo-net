@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0w64MUUf3bbq3v/ll5lC3dOb47sLKo7SARPoV+XAMUUIKjkCMuiBxHTY+8sFG9PHBq9f7a5GTyFg+AGvkEm1Zg==",
+  "success": true,
+  "projectFilePath": "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\exteguadalupe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\exteguadalupe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\exteguadalupe\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\exteguadalupe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\exteguadalupe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\exteguadalupe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
