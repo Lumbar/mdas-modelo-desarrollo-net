@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {}
+    "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {
+    "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
+        "projectUniqueName": "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
-        "packagesPath": "C:\\Users\\exteguadalupe\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\obj\\",
+        "projectPath": "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\exteguadalupe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
