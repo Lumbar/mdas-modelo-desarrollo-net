@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: apinet-dploy
+  labels:
+      app: apinet-dploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: apinet-dploy
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: apinet-dploy
+    spec:
+      containers:
+        - name: apinet-dploy
+          image: "lumbar/mdas-modelo-desarrollo-sw:last"
+          imagePullPolicy: Always
+      restartPolicy: Always

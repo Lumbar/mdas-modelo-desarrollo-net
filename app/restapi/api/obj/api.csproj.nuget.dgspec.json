@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {}
+    "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {}
   },
   "projects": {
-    "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {
+    "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
+        "projectUniqueName": "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\obj\\",
+        "projectPath": "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\api.csproj",
+        "packagesPath": "C:\\Users\\exteguadalupe\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\mdas-modelo-desarrollo-net\\app\\restapi\\api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\exteguadalupe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

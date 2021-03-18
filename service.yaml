@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: apinet-service
+  labels:
+     app: apinet-service
+spec:
+  selector:
+    app: apinet-dploy
+  ports:
+    - protocol: TCP
+      port: 80
